@@ -132,10 +132,6 @@ Console.WriteLine("--------------------------");
 
 var skincareProducts1 = products
     .Where(p => p.Category == ProductCategory.Skincare)
-    .Select(p => new ProductInfo
-    {
-        Title = p.Title,
-        Description = p.Description
-    })
+    .Select(p => new ProductInfo(p.Title, p.Description))
     .ToList();
 ConsolePrinter.PrintCollectionItems(skincareProducts1, "SKINCARE PRODUCTS (DTO)");
