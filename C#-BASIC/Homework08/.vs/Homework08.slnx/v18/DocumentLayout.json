@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-BASIC\\Homework08\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6078D8BE-EEF7-46B4-9E6B-1D900C471A4B}|Task01\\Task01.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-basic\\homework08\\task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6078D8BE-EEF7-46B4-9E6B-1D900C471A4B}|Task01\\Task01.csproj|solutionrelative:task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A1323E8-A945-AF6A-9AB0-E7EE303D6685}|Task02\\Task02.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-basic\\homework08\\task02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A1323E8-A945-AF6A-9AB0-E7EE303D6685}|Task02\\Task02.csproj|solutionrelative:task02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1323E8-A945-AF6A-9AB0-E7EE303D6685}|Task02\\Task02.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-basic\\homework08\\task02\\domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1323E8-A945-AF6A-9AB0-E7EE303D6685}|Task02\\Task02.csproj|solutionrelative:task02\\domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A1323E8-A945-AF6A-9AB0-E7EE303D6685}|Task02\\Task02.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-basic\\homework08\\task02\\domain\\models\\staticdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-BASIC\\Homework08\\Task02\\Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Task02\\Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-BASIC\\Homework08\\Task02\\Domain\\Models\\Product.cs",
+              "RelativeToolTip": "Task02\\Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:26:29.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-BASIC\\Homework08\\Task01\\Program.cs",
+              "RelativeDocumentMoniker": "Task01\\Program.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-BASIC\\Homework08\\Task01\\Program.cs",
+              "RelativeToolTip": "Task01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:25:59.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ConsolePrinter.cs",
               "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-BASIC\\Homework08\\Task02\\Helpers\\ConsolePrinter.cs",
               "RelativeDocumentMoniker": "Task02\\Helpers\\ConsolePrinter.cs",
@@ -42,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StaticDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-BASIC\\Homework08\\Task02\\Domain\\Models\\StaticDatabase.cs",
               "RelativeDocumentMoniker": "Task02\\Domain\\Models\\StaticDatabase.cs",
@@ -50,11 +84,12 @@
               "RelativeToolTip": "Task02\\Domain\\Models\\StaticDatabase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T21:49:08.756Z"
+              "WhenOpened": "2026-04-13T21:49:08.756Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductCategory.cs",
               "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-BASIC\\Homework08\\Task02\\Domain\\Enums\\ProductCategory.cs",
               "RelativeDocumentMoniker": "Task02\\Domain\\Enums\\ProductCategory.cs",
@@ -66,13 +101,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-BASIC\\Homework08\\Task02\\Program.cs",
               "RelativeDocumentMoniker": "Task02\\Program.cs",
               "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-BASIC\\Homework08\\Task02\\Program.cs",
               "RelativeToolTip": "Task02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-12T20:47:22.506Z",
               "EditorCaption": ""

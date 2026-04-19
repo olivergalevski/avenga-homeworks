@@ -35,7 +35,7 @@ ConsolePrinter.PrintCollectionItems(allProductsTitlesWithRaitingAbove4dot5, "ALL
 List<string> allProductsTitlesWithPriceBetween100and200 = products
     .Where(x => x.Price >= 100 && x.Price <= 200)
     .Select(p => p.Title)
-    .ToList ();
+    .ToList();
 ConsolePrinter.PrintCollectionItems(allProductsTitlesWithPriceBetween100and200, "ALL PRODUCTS TITLES WITH PRICE BETWEEN 100 AND 200$");
 
 List<string> allBrandsWithPriceAbove1000 = products
