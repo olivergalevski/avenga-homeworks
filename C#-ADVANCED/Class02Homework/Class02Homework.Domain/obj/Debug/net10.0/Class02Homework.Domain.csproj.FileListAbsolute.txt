@@ -1,0 +1,12 @@
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\bin\Debug\net10.0\Class02Homework.Domain.deps.json
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\bin\Debug\net10.0\Class02Homework.Domain.dll
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\bin\Debug\net10.0\Class02Homework.Domain.pdb
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\obj\Debug\net10.0\Class02Homework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\obj\Debug\net10.0\Class02Homework.Domain.AssemblyInfoInputs.cache
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\obj\Debug\net10.0\Class02Homework.Domain.AssemblyInfo.cs
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\obj\Debug\net10.0\Class02Homework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\obj\Debug\net10.0\Class02Homework.Domain.sourcelink.json
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\obj\Debug\net10.0\Class02Homework.Domain.dll
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\obj\Debug\net10.0\refint\Class02Homework.Domain.dll
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\obj\Debug\net10.0\Class02Homework.Domain.pdb
+C:\Users\Oliver\Desktop\Avenga Academy\avenga-homeworks\avenga-homeworks\C#-ADVANCED\Class02Homework\Class02Homework.Domain\obj\Debug\net10.0\ref\Class02Homework.Domain.dll

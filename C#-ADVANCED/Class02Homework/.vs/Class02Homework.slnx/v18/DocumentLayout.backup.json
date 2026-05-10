@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E640615-E2DF-44BD-A9C3-016A10C24449}|Task04\\Task04.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\task04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E640615-E2DF-44BD-A9C3-016A10C24449}|Task04\\Task04.csproj|solutionrelative:task04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\models\\company\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\models\\company\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\models\\company\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\models\\company\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\models\\company\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\models\\company\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76BC4F9B-09D8-4D01-A28D-B35C5F4C0943}|Task02\\Task02.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\task02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76BC4F9B-09D8-4D01-A28D-B35C5F4C0943}|Task02\\Task02.csproj|solutionrelative:task02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA417A36-084D-48CE-BD72-FE676C308601}|Task01\\Task01.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA417A36-084D-48CE-BD72-FE676C308601}|Task01\\Task01.csproj|solutionrelative:task01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA02393C-3002-48D1-AA55-10F4E7B4948F}|Task03\\Task03.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\task03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA02393C-3002-48D1-AA55-10F4E7B4948F}|Task03\\Task03.csproj|solutionrelative:task03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\models\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\models\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\models\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\models\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\models\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\models\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\models\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\models\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\interfaces\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\models\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\models\\webpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|c:\\users\\oliver\\desktop\\avenga academy\\avenga-homeworks\\avenga-homeworks\\c#-advanced\\class02homework\\class02homework.domain\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82A16BC-0B09-4FE6-B7B4-D6F62AE56BAE}|Class02Homework.Domain\\Class02Homework.Domain.csproj|solutionrelative:class02homework.domain\\interfaces\\isearchable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Task04\\Program.cs",
+              "RelativeDocumentMoniker": "Task04\\Program.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Task04\\Program.cs",
+              "RelativeToolTip": "Task04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T20:29:13.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Company\\Programmer.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Models\\Company\\Programmer.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Company\\Programmer.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Models\\Company\\Programmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T20:25:17.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Company\\Manager.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Models\\Company\\Manager.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Company\\Manager.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Models\\Company\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T20:12:52.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Company\\Employee.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Models\\Company\\Employee.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Company\\Employee.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Models\\Company\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T19:42:50.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Task03\\Program.cs",
+              "RelativeDocumentMoniker": "Task03\\Program.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Task03\\Program.cs",
+              "RelativeToolTip": "Task03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T19:33:39.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Models\\Shapes\\Shape.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Shapes\\Shape.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Models\\Shapes\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T17:07:17.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Task02\\Program.cs",
+              "RelativeDocumentMoniker": "Task02\\Program.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Task02\\Program.cs",
+              "RelativeToolTip": "Task02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:45:48.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Models\\Shapes\\Triangle.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Models\\Shapes\\Triangle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:10:27.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Models\\Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Models\\Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:10:16.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Models\\Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Models\\Shapes\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:10:05.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Interfaces\\IShape.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Interfaces\\IShape.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Interfaces\\IShape.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Interfaces\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:04:33.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebPage.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\WebPage.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Models\\WebPage.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\WebPage.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Models\\WebPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:03:23.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Models\\Document.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:03:02.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISearchable.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Interfaces\\ISearchable.cs",
+              "RelativeDocumentMoniker": "Class02Homework.Domain\\Interfaces\\ISearchable.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Class02Homework.Domain\\Interfaces\\ISearchable.cs",
+              "RelativeToolTip": "Class02Homework.Domain\\Interfaces\\ISearchable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:59:35.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Task01\\Program.cs",
+              "RelativeDocumentMoniker": "Task01\\Program.cs",
+              "ToolTip": "C:\\Users\\Oliver\\Desktop\\Avenga Academy\\avenga-homeworks\\avenga-homeworks\\C#-ADVANCED\\Class02Homework\\Task01\\Program.cs",
+              "RelativeToolTip": "Task01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:40:17.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
